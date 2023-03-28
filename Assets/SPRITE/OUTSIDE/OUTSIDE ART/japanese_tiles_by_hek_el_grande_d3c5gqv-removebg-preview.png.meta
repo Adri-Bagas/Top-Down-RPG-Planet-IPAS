@@ -1,0 +1,1971 @@
+fileFormatVersion: 2
+guid: 97293fb082f202942bff3256ef546864
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99668d330ab29f489fadb389575bc47
+      internalID: -330305027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c691e89cc7ef2db4db4fbcc8b9eee160
+      internalID: -242039422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8339f63a19c93d54bb2807deff5897c8
+      internalID: -799867447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837768d27e27ab94ca37b81db5fe6ff7
+      internalID: -1258868664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab4da4545c9db048a26ce3f089fe99c
+      internalID: -664069028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 327
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac09297e5f0e2d42ae2df02b804c7ee
+      internalID: -270667412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9f7d312b8b40b4d98dae9f3945dedf
+      internalID: -663966179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460618fa45f8eb04580ed9a98d4a52eb
+      internalID: 1977157721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d999b861a0d10d4f89917b7285b42d9
+      internalID: 1182049864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af50a6d5a4b0bb84490d84457a44dd00
+      internalID: 1785072955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b3e1e99459be47865095849d6a54f
+      internalID: 1023548943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb5ed8d185e2bf4888dde6e7fc1db90
+      internalID: -139411476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f36709451df3142a37287dea2032ae
+      internalID: 264298787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 295
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf98787134875b4ea3c4c981b69d8c1
+      internalID: 1165240236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0597afbf3320b7144a11f5901bb1466a
+      internalID: 621070262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e49ce8ddff42f4dbb0d798fd96edf2
+      internalID: 969931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f783f02c527198f47a2d74155a1c2bdd
+      internalID: -1060642304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cc70a0e8410f54d80ea7cb78853753
+      internalID: 183616990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39efed6e3102e6f409645a3f423e5a53
+      internalID: 1417729296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41818ff87b877478307dd008e8e05e
+      internalID: -61957331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c021ca1807fdb149a5bc3408225b2c5
+      internalID: -1204448552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 263
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e5013264f28b345814bfb15d2a35a6
+      internalID: -1361453278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccedf3d25ba89648ab0f81670221e8b
+      internalID: -176414984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcad01e231e2df44a68ff5e0b19ed0c
+      internalID: 1652518533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ddedff5096890498764778a09a8f84
+      internalID: -1348667270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82affd997a516d4c802a2a8d4847e43
+      internalID: -124769503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5aece60f34b34f83289a523d746e9
+      internalID: -347520367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03249ad6bff3340409dfe40008a09e55
+      internalID: -1317210733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951f44b51d775e4aa0783e20db7348a
+      internalID: -128537438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 231
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1b5d1d160fd4d47a7d715c6a717d4b
+      internalID: 799912459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5324b5494d09449b2de86031285567
+      internalID: -1104845218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13a42ce3183cf42800e501291e0f5c
+      internalID: -1658930038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16075c439c3fd2a43a7f282772bd5be7
+      internalID: -743232468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef775042bb41e4db4d6693bf3fc306
+      internalID: 884550022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b6d97096368048b287717c116dea4
+      internalID: 1707974573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10e7d4ab1f4e54384cde51f4701621
+      internalID: -243718047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b677b5cfd3e0f24abc93466c3b497fb
+      internalID: -83232836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f632297c75bf5574395aa37dcac85ee6
+      internalID: -838938073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c6943592ca384d84eb0f96eeddfe6
+      internalID: -860983051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30316150f9e6574396e9ff5e233f547
+      internalID: -1374582210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8670ab52837f41a43a4a3922c555cef3
+      internalID: 1325236267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb612b6009f7eb34085c656d59abdf9b
+      internalID: 337718098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07902409d2054740adf0d2b6607ab4f
+      internalID: -1297583925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 167
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2cdc044559c642be886fa6f0b37f6
+      internalID: -985385456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e943e43000b8d442bf9dce6dc2ca684
+      internalID: 1335454951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3920a4958959b84fa3254b76442b9a5
+      internalID: 135321172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda0c8475171ee844ab8488edf1cb559
+      internalID: 1796298378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865b9130b4f22594289deae12fcc2e1f
+      internalID: 633315731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012485bc1f21ac04391462a091f78272
+      internalID: -811913281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5794e544f1f92e42ae593002e479bc2
+      internalID: -1304530198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ef0ec89feb3344b4f0e739644a872
+      internalID: 875653313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a553bf03d7cb8e49a6f44635d269d6a
+      internalID: 1628626457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1c0d0eddc2e4140ac28d6ae77bba6c
+      internalID: -662172624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac3d8447e73ed1458ab67d4b1e2e12e
+      internalID: -1849787418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb7e33f299c1c84aa5468c1a194a3f6
+      internalID: 2068664986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3500678e765c2e46a1b558c2ec93a73
+      internalID: -988166000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb8a044955e772499d8363690940796
+      internalID: 766369209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e386b936840974db74ec229aa5a821
+      internalID: -1868589292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673666e3716a0b14ebb0facbeb8cca1b
+      internalID: -214885423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 103
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9751d1e6945f9ee4abb49edd865df065
+      internalID: -140319514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12ec5d843badda438d238bf83f964a7
+      internalID: 746480391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfaa237ffdbc04cbb49f608ae44ce2
+      internalID: -124307480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa282af0c20dae44683ae5563bbf6d2e
+      internalID: 1594849603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c1097549cc734b961a1f2c91e6f62
+      internalID: 63374343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b238b1dd826de354e9da226caf760b77
+      internalID: 1064968571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f4e1e1377be54ca4d7640bf626381
+      internalID: 1136789927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa85a400c0176d4ab12a051ff6449ad
+      internalID: 547038282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 71
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4986e8e9bd6184e9f4006403e67ad7
+      internalID: 938557132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f55cd62e8bfec64d8a0624360e6e210
+      internalID: -200196439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201282d98e4ed5947bcb50c0d8b36aea
+      internalID: -1727145772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383561328fb41b4b9392d8fee79cecf
+      internalID: 1773690099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e719e4be0099243a33c51a2bb8a737
+      internalID: -549997480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208ec644c4adad47ba12a4b71879a2b
+      internalID: 1847345618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662785dcac7c3c946939b411b44b6e52
+      internalID: 2072861265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451de639420802f418bc3afd4ece5b5f
+      internalID: 1774255753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9874539ee7f9634c91b6c4180c6814c
+      internalID: 1212048972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a0609c7062b04fa7d6072b97451a4
+      internalID: -73974282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac3e2c0c09bb5f4daa46e7dafe2ef65
+      internalID: 2095800366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3821698c0d6c7c4a9cfc0b22c70ac19
+      internalID: 190988942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e24109abd074b48b6e17bdf883c7c0
+      internalID: 486864276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b1daddbf095b49825cff8ef60586f
+      internalID: 437626037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38103aa64a021924b925ea4da282835a
+      internalID: -1161328474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eeb4450166f4c4aa91c1a98f195ea7
+      internalID: 1884134395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85de26d5eb9c74748949d43c36d0dfbb
+      internalID: 1502615293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_0: -330305027
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_1: -242039422
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_10: 1023548943
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_11: -139411476
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_12: 264298787
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_13: 1165240236
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_14: 621070262
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_15: 969931
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_16: -1060642304
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_17: 183616990
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_18: 1417729296
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_19: -61957331
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_2: -799867447
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_20: -1204448552
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_21: -1361453278
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_22: -176414984
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_23: 1652518533
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_24: -1348667270
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_25: -124769503
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_26: -347520367
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_27: -1317210733
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_28: -128537438
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_29: 799912459
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_3: -1258868664
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_30: -1104845218
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_31: -1658930038
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_32: -743232468
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_33: 884550022
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_34: 1707974573
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_35: -243718047
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_36: -83232836
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_37: -838938073
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_38: -860983051
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_39: -1374582210
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_4: -664069028
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_40: 1325236267
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_41: 337718098
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_42: -1297583925
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_43: -985385456
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_44: 1335454951
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_45: 135321172
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_46: 1796298378
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_47: 633315731
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_48: -811913281
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_49: -1304530198
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_5: -270667412
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_50: 875653313
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_51: 1628626457
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_52: -662172624
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_53: -1849787418
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_54: 2068664986
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_55: -988166000
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_56: 766369209
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_57: -1868589292
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_58: -214885423
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_59: -140319514
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_6: -663966179
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_60: 746480391
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_61: -124307480
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_62: 1594849603
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_63: 63374343
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_64: 1064968571
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_65: 1136789927
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_66: 547038282
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_67: 938557132
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_68: -200196439
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_69: -1727145772
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_7: 1977157721
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_70: 1773690099
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_71: -549997480
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_72: 1847345618
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_73: 2072861265
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_74: 1774255753
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_75: 1212048972
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_76: -73974282
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_77: 2095800366
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_78: 190988942
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_79: 486864276
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_8: 1182049864
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_80: 437626037
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_81: -1161328474
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_82: 1884134395
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_83: 1502615293
+      japanese_tiles_by_hek_el_grande_d3c5gqv-removebg-preview_9: 1785072955
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
